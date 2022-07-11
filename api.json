@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "titulo": "Collar Ajustable",
+        "titulo": "Rascador Para Gatito",
         "precio": 100,
-        "url": "/img/Collar_ajustable.jpg"
+        "url": "https://imagenes.elpais.com/resizer/MojAcJhrZJ8wK-uSmdhuVpjO2JY=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/423OQRR5TYDXJCOXE42CZL2BNM.jpg"
     },
     {
         "id": 2,
-        "titulo": "Arbol Cama",
+        "titulo": "Comedor Gatito",
         "precio": 650,
-        "url": "/img/arbol-cama.jpg"
+        "url": "https://i.pinimg.com/originals/83/db/7f/83db7f9eb3c20b8289bae062ed5b7893.png"
     },
     {
         "id": 3,
-        "titulo": "Dizfraz Murcielago",
-        "precio": 415,
-        "url": "/img/Dizfraz-Murcielago.jpg"
+        "titulo": "Rascador Nido",
+        "precio": 4156,
+        "url": "https://www.perrogato.net/8962/rascador-nido-y-2-bases-beigecafe-accesorios-para-gatos.jpg"
     },
     {
         "id": 4,
-        "titulo": "Gato Bebedero",
-        "precio": 800,
-        "url": "/img/gato-bebedero-gatos.jpg"
+        "titulo": "Mueblesito Gatuno",
+        "precio": 80640,
+        "url": "https://demascotas.info/wp-content/uploads/2020/10/Sin-titulo-10.png"
     },
     {
         "id": 5,
-        "titulo": "Gato Bebedero",
-        "precio": 800,
-        "url": "/img/gato-bebedero-gatos.jpg"
+        "titulo": "Rascador de patitas",
+        "precio": 8500,
+        "url": "https://p1.storage.canalblog.com/22/07/1387511/125013575_o.jpg"
     },
     {
         "id": 6,
-        "titulo": "Gato Bebedero",
-        "precio": 800,
-        "url": "/img/gato-bebedero-gatos.jpg"
+        "titulo": "Juguetes y accesorios",
+        "precio": 700,
+        "url": "https://imgcuore2.elperiodico.com/90/ee/4d/parque-atracciones-gatos.jpg"
     },
     {
         "id": 7,
         "titulo": "Gato Bebedero",
-        "precio": 800,
-        "url": "/img/gato-bebedero-gatos.jpg"
+        "precio": 5451,
+        "url": "https://decoracion2.com/imagenes/2017/12/decorar-la-casa-para-tu-mascota-meyou.jpg"
     }
 ]
