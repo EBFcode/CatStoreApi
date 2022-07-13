@@ -4,18 +4,23 @@
         "titulo": "Rascador-Para-Gatito",
         "precio": 100,
         "categoria": "ropa",
+        "stock": 6,
         "url": "https://imagenes.elpais.com/resizer/MojAcJhrZJ8wK-uSmdhuVpjO2JY=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/423OQRR5TYDXJCOXE42CZL2BNM.jpg"
     },
     {
         "id": 2,
         "titulo": "Comedor-Gatito",
         "precio": 650,
+        "stock": 23,
+        
         "url": "https://i.pinimg.com/originals/83/db/7f/83db7f9eb3c20b8289bae062ed5b7893.png"
     },
     {
         "id": 3,
         "titulo": "Rascador-Nido",
         "precio": 4156,
+        "stock": 41,
+        
         "categoria": "ropa",
         "url": "https://www.perrogato.net/8962/rascador-nido-y-2-bases-beigecafe-accesorios-para-gatos.jpg"
     },
@@ -23,6 +28,8 @@
         "id": 4,
         "titulo": "Mueblesito-Gatuno",
         "precio": 80640,
+        "stock": 124,
+        
         "categoria": "ropa",
         "url": "https://demascotas.info/wp-content/uploads/2020/10/Sin-titulo-10.png"
     },
@@ -30,6 +37,8 @@
         "id": 5,
         "titulo": "Rascador-de-patitas",
         "precio": 8500,
+        "stock": 612,
+        
         "categoria": "objetos",
         "url": "https://p1.storage.canalblog.com/22/07/1387511/125013575_o.jpg"
     },
@@ -37,6 +46,8 @@
         "id": 6,
         "titulo": "Juguetes-y-accesorios",
         "precio": 700,
+        "stock": 64,
+        
         "categoria": "objetos",
         
         "url": "https://imgcuore2.elperiodico.com/90/ee/4d/parque-atracciones-gatos.jpg"
@@ -45,6 +56,8 @@
         "id": 7,
         "titulo": "Gato-Bebedero",
         "precio": 5451,
+        "stock": 522,
+        
         "categoria": "objetos",
         
         "url": "https://decoracion2.com/imagenes/2017/12/decorar-la-casa-para-tu-mascota-meyou.jpg"
@@ -53,6 +66,8 @@
         "id": 8,
         "titulo": "Cama-Termica-para-gato",
         "precio": 5451,
+        "stock": 687,
+        
         "categoria": "objetos",
         
         "url": "https://m.media-amazon.com/images/I/81K9YJB4UcS._AC_SX425_.jpg"
